@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Creado por  Mario Burga - MiHost.com el 04/09/18 10:32 PM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Última modificación 04/09/18 05:36 PM
+  ~  */
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/seccion_mis_comics"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/lblListHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5sp"
+        android:paddingLeft="30sp"
+        android:paddingTop="5sp"
+        android:text="Seccion"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

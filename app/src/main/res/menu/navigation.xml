@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_catalogo"
+        android:icon="@drawable/ic_catalogo"
+        android:title="@string/catalogo" />
+
+    <item
+        android:id="@+id/navigation_miscomic"
+        android:icon="@drawable/ic_miscomic"
+        android:title="@string/miscomics" />
+
+    <item
+        android:id="@+id/navigation_publicar"
+        android:icon="@drawable/ic_publicar"
+        android:title="@string/publicar" />
+
+</menu>

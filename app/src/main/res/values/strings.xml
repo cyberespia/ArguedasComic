@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MH eBooks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="catalogo">Catálogo</string>
+    <string name="miscomics">Mis eBooks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="publicar">Publicar</string>
+    <string name="Leer">Leer</string>
+    <string name="mensaje">Mensaje:</string>
+    <string name="descripcion_contacto">Eres autor de un libro y deseas publicarlo en formato digital en nuestra plataforma?, contáctanos llenando el siguiente formulario:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="email">Email:</string>
+    <string name="tel_fono">Teléfono:</string>
+    <string name="enviar">Enviar</string>
+</resources>

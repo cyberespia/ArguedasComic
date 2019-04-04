@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e86f5</color>
+    <color name="colorPrimaryDark">#4e86f5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name ="borderinput">#d8effa</color>
+    <color name ="white">#FFFFFF</color>
+    <color name="splashbackground">#00a7cf</color>
+    <color name="bacgroundbotonenviar">#ffffff</color>
+    <color name="nav_item_bottom_check">#fff5a1</color>
+    <color name="nav_item_bottom">#ffffff</color>
+    <color name="background_bottom_nav">#4d87f3</color>
+    <color name="bg_boton_comprar">#4599f9</color>
+    <color name="bg_contenidos">#4599f9</color>
+    <color name="seccion_mis_comics">#fc4283</color>
+    <color name="bg_descripc_contacto">#2a84eb</color>
+    <color name="color_textHint_input">#d8effa</color>
+    <color name="color_text_btn_enviar">#3784c8</color>
+
+</resources>
